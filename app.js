@@ -24,12 +24,12 @@ Halo *${name}*, ini pengingat kegiatan *Canyoning* untuk besok.
 
 🕗 *Jam Kumpul:* 08:00 pagi
 👥 *Jumlah Peserta:* ${peserta}
-🎫 *Paket:* ${paket}
+🎫 *Paket:* Canyoneering
 
 🎒 *Perlengkapan Wajib:*
 - Baju ganti
 - Sepatu/Sandal anti slip
-- Obat pribadi
+- Obat pribadi (Bila Perlu)
 
 📍 *Lokasi Basecamp:* ${BASECAMP_LINK}
 
